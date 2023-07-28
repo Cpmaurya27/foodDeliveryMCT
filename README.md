@@ -1,4 +1,3 @@
-# foodDeliveryMCT
 # Food Delivery
 # Framework and Language
 * Spring Boot
